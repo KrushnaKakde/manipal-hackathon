@@ -1,4 +1,5 @@
 # Manipal Hackathon Project
+# Manipal Hackathon Project
 
 Welcome to the Manipal Hackathon Project! This repository contains both the backend and frontend code for the project.
 
